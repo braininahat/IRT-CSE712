@@ -1,0 +1,22 @@
+[Event "FIDE World Cup"]
+[Site "Khanty-Mansiysk"]
+[Date "2005.12.13"]
+[Round "6.2"]
+[White "Ponomariov, Ruslan"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2704"]
+[BlackElo "2720"]
+[PlyCount "33"]
+[EventDate "2005.11.27"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2006.04.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Nc6 10. Bf3 Be6 11. Nd5 Bxd5 12. exd5 Na5 13. Nd2 Rc8 14. b3 Qc7 15.
+Ra2 b6 16. Re1 Ra8 17. g3 1/2-1/2
+

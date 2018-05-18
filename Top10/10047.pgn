@@ -1,0 +1,25 @@
+[Event "Mainz CCM5 sim"]
+[Site "Mainz"]
+[Date "2005.08.??"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Ballo, Harald"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2720"]
+[BlackElo "1970"]
+[PlyCount "56"]
+[EventDate "2005.08.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Bd7 9. Be2 O-O 10. Nf3 Qe8 11. e5 dxe5 12. fxe5 Ng4 13. O-O Nxe5 14. Bf4 f6 15.
+d6 Bc6 16. Nd5 Nbd7 17. Nc7 Qd8 18. Nxa8 Qxa8 19. Nxe5 fxe5 20. Bg5 Rxf1+ 21.
+Qxf1 e4 22. Bc4+ Kh8 23. Re1 h6 24. Be7 Ne5 25. Bb5 b6 26. Bxc6 Qxc6 27. Qf4
+Qb5 28. Qxe4 Qxb2 1-0
+

@@ -1,0 +1,22 @@
+[Event "Leon 21st"]
+[Site "Leon"]
+[Date "2008.06.01"]
+[Round "2.4"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "E55"]
+[WhiteElo "2740"]
+[BlackElo "2803"]
+[PlyCount "31"]
+[EventDate "2008.05.30"]
+[EventType "k.o. (rapid)"]
+[EventRounds "2"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 cxd4 10. exd4 b6 11. d5 Nc5 12. Rd1 Qe8 13. Nb5 exd5 14. Nc7 Qe4
+15. Rd4 Qg6 16. Nh4 1-0
+

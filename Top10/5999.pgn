@@ -1,0 +1,26 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Sanchez Alarcos Galian, Victor"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2765"]
+[BlackElo "2016"]
+[PlyCount "84"]
+[EventDate "2008.05.24"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Bd3
+cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Qxe5 12. Bf4 Qf6 13. Qh6 Ng6 14. Bg5 Rh8
+15. Bxf6 Rxh6 16. Bxc3 Nc6 17. f4 Bd7 18. Kf2 O-O-O 19. Bf6 Rg8 20. Bg5 Rhh8
+21. h4 Nf8 22. h5 Nh7 23. Bh4 f5 24. Rh3 Rg4 25. Rah1 Be8 26. h6 Rg6 27. c4
+Rxh6 28. cxd5 exd5 29. Bg5 Nxg5 30. Rxh6 Rxh6 31. Bxf5+ Bd7 32. Bxd7+ Kxd7 33.
+Rxh6 Ne4+ 34. Ke3 Nd6 35. Rh7+ Ne7 36. Nd4 Ke8 37. g4 a5 38. f5 Nc6 39. Ne6 b5
+40. Nc7+ Kf8 41. Nxd5 Nc4+ 42. Kf4 Nxa3 1-0
+

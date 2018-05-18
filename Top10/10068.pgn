@@ -1,0 +1,24 @@
+[Event "Mainz CCM5 sim"]
+[Site "Mainz"]
+[Date "2005.08.??"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Reitz, Gerhard"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2720"]
+[PlyCount "55"]
+[EventDate "2005.08.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+[BlackTeamCountry "GER"]
+
+1. c4 e6 2. Nc3 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. O-O Bd6 7. b3 O-O 8. Bb2
+Bd7 9. e3 Be8 10. Ne2 Nbd7 11. Rc1 Qe7 12. Nfd4 a6 13. d3 Bh5 14. Qc2 g5 15. a3
+Ne5 16. f4 Neg4 17. Qd2 gxf4 18. Nxf4 Bf7 19. Rce1 Rad8 20. cxd5 cxd5 21. b4
+Ne5 22. Nxd5 Nxd5 23. Bxd5 Bxb4 24. axb4 Rxd5 25. e4 fxe4 26. dxe4 Rd7 27. Qh6
+Ng4 28. Nf5 1-0
+

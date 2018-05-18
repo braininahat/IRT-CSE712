@@ -1,0 +1,24 @@
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2001.01.13"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2718"]
+[BlackElo "2718"]
+[PlyCount "47"]
+[EventDate "2001.01.13"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2001.03.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. Bd2 Qc7 14. gxf6 dxc3
+15. Bxc3 Qc6 16. Qg3 Bh6+ 17. Kb1 Bf4 18. Qd3 Rg8 19. Bh3 Kd8 20. Bb4 Qxf6 21.
+Qc4 Rg5 22. Rd6 Qg7 23. f6 Rg1+ 24. Bf1 1-0
+

@@ -1,0 +1,25 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Nieto de la Cruz, Julio"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2765"]
+[BlackElo "1857"]
+[PlyCount "71"]
+[EventDate "2008.05.24"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 g6 7. Nf3 d6 8. Nd2
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Qc7 12. a4 Rd8 13. a5 e6 14. Nc4 exd5 15.
+exd5 Rb8 16. Bf4 Ne5 17. Bxe5 dxe5 18. d6 Qb7 19. Qc1 e4 20. Rd1 Be6 21. Nb6
+Bb3 22. Qf4 Bxd1 23. Rxd1 Qc6 24. Bxa6 Rxb6 25. axb6 Qxb6 26. Bc4 Qxb2 27. Nxe4
+Qc2 28. Nxf6+ Bxf6 29. Qf3 Kg7 30. Bb3 Qb2 31. g3 Rb8 32. Bc4 Qe5 33. d7 h5 34.
+d8=Q Rxd8 35. Rxd8 Bxd8 36. Qxf7+ 1-0
+

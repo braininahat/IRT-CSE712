@@ -1,0 +1,31 @@
+[Event "WUCC op U16"]
+[Site "Istanbul"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aronian, Levon"]
+[Black "Riazantsev, Alexander"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "2455"]
+[BlackElo "2290"]
+[PlyCount "153"]
+[EventDate "1998.??.??"]
+[EventType "swiss"]
+[EventRounds "10"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+
+1. g3 e6 2. Bg2 f5 3. Nf3 Nf6 4. O-O d5 5. d3 Be7 6. c4 c6 7. Nbd2 O-O 8. Qc2
+Na6 9. b3 Bd7 10. Bb2 Be8 11. Bc3 Bh5 12. Rab1 c5 13. a3 d4 14. Ba1 Bd6 15.
+Rfe1 Qd7 16. e3 e5 17. exd4 exd4 18. b4 cxb4 19. Bxd4 bxa3 20. Ne5 Bxe5 21.
+Bxe5 Nc5 22. d4 Nce4 23. h3 Rac8 24. Nxe4 fxe4 25. c5 b6 26. Qb3+ Qd5 27. cxb6
+axb6 28. Qxa3 Rc6 29. g4 Bg6 30. Qe3 Qf7 31. Qf4 Qd7 32. Qd2 Nd5 33. Rbc1 Rxc1
+34. Rxc1 Rc8 35. Rxc8+ Qxc8 36. Qa2 Qb7 37. h4 b5 38. h5 Bf7 39. Qd2 Nf6 40.
+Qg5 h6 41. Qf5 Qd5 42. g5 Qd7 43. Bxe4 Qxf5 44. Bxf5 hxg5 45. h6 b4 46. Kf1 b3
+47. Ke1 b2 48. Bb1 Nd5 49. h7+ Kh8 50. Kd2 Nf6 51. Kc3 Nxh7 52. Kxb2 Nf6 53.
+Kc3 Kg8 54. Kb4 Kf8 55. Kc5 Ke7 56. Bd6+ Kd8 57. Be5 Ke7 58. Bd6+ Kd8 59. Bf5
+Bd5 60. Be5 Bf7 61. Kc6 Be8+ 62. Kd6 Bf7 63. Kc5 Ke7 64. Bd6+ Kd8 65. Bd3 Nd7+
+66. Kc6 Nf6 67. Bf8 g6 68. Kd6 Ne8+ 69. Ke5 g4 70. d5 g5 71. d6 Nxd6 72. Bxd6
+Bb3 73. Bf5 Ke8 74. Kf6 Bc4 75. Kxg5 Kf7 76. Bxg4 Bd5 77. f4 1-0
+

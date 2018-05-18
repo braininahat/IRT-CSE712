@@ -1,0 +1,23 @@
+[Event "Stepanakert-A"]
+[Site "Stepanakert"]
+[Date "2005.10.10"]
+[Round "8"]
+[White "Anastasian, Ashot"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[WhiteElo "2596"]
+[BlackElo "2724"]
+[PlyCount "30"]
+[EventDate "2005.10.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2006.01.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. e3 cxd4 8.
+exd4 Nc6 9. Bb5 O-O 10. Nge2 Qb6 11. Bxc6 Qxc6 12. O-O Ne4 13. Be3 Bf5 14. Qb3
+Bxc3 15. Rac1 Qc4 1/2-1/2
+

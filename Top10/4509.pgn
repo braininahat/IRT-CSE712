@@ -1,0 +1,23 @@
+[Event "Wch Blitz 5th"]
+[Site "Moscow"]
+[Date "2010.11.16"]
+[Round "5"]
+[White "Ponomariov, Ruslan"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2744"]
+[BlackElo "2801"]
+[PlyCount "30"]
+[EventDate "2010.11.16"]
+[EventType "tourn (blitz)"]
+[EventRounds "38"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. d4 Nf6 2. Bf4 c5 3. e3 Qb6 4. Nc3 d6 5. a3 cxd4 6. exd4 Bd7 7. Rb1 e5 8. Bg5
+exd4 9. Bxf6 gxf6 10. Ne4 d5 11. Nd2 Nc6 12. Bd3 Rg8 13. Ne2 Ne5 14. O-O O-O-O
+15. Ng3 Bg4 0-1
+

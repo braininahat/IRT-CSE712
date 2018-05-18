@@ -1,0 +1,25 @@
+[Event "Grischuk-Grachev m"]
+[Site "playchess.com INT"]
+[Date "2006.12.25"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Grachev, Boris"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2710"]
+[BlackElo "2581"]
+[PlyCount "71"]
+[EventDate "2006.12.25"]
+[EventType "match (blitz)"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2007.11.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Bb7 9. g4 Nc6 10. O-O-O Rc8 11. Kb1 Ne5 12. g5 Nfd7 13. Bd3 Be7 14. Rhg1 O-O
+15. f4 Nc4 16. Qe2 Nxe3 17. Qxe3 Qb6 18. Nce2 e5 19. Qh3 exd4 20. Qxd7 Rc7 21.
+Qh3 Re8 22. e5 g6 23. e6 Bf8 24. f5 fxe6 25. fxg6 e5 26. Qh5 Qc6 27. Rdf1 hxg6
+28. Bxg6 Rec8 29. Rf7 Qxc2+ 30. Bxc2 Rxf7 31. g6 Rfc7 32. Bf5 d3 33. g7 Bxg7
+34. Be6+ Kf8 35. Nc3 Rxc3 36. Qf7# 1-0
+

@@ -1,0 +1,21 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Cabrera, Enrique"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2765"]
+[PlyCount "29"]
+[EventDate "2008.05.24"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 b6 5. cxd5 Nxd5 6. Bg2 Bb7 7. O-O Nc6 8. e4
+Nf6 9. Nc3 Be7 10. d5 exd5 11. exd5 Nb4 12. Nd4 Nbxd5 13. Nf5 Bf8 14. Re1+ Ne7
+15. Bxb7 1-0
+

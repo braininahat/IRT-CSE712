@@ -1,0 +1,23 @@
+[Event "Oslo BNbank Gp-B"]
+[Site "Oslo"]
+[Date "2009.11.28"]
+[Round "4"]
+[White "Stokke, Kjetil"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2382"]
+[BlackElo "2715"]
+[PlyCount "35"]
+[EventDate "2009.11.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "6"]
+[EventCountry "NOR"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2010.01.05"]
+
+1. b3 c5 2. Bb2 Nc6 3. e4 e5 4. f4 g6 5. Nf3 d6 6. fxe5 Bg7 7. Bc4 dxe5 8. O-O
+h6 9. Bxf7+ Kxf7 10. Nxe5+ Ke8 11. Nxc6 Qc7 12. Ne5 Bxe5 13. Nc3 Bd4+ 14. Kh1
+Be6 15. Nb5 Qd7 16. Nxd4 cxd4 17. c3 d3 18. Qf3 0-1
+

@@ -1,0 +1,22 @@
+[Event "Chess@iceland-B"]
+[Site "Kopavogur"]
+[Date "2000.04.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2633"]
+[BlackElo "2769"]
+[PlyCount "22"]
+[EventDate "2000.04.01"]
+[EventType "rapid"]
+[EventRounds "5"]
+[EventCountry "ISL"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. Be3 Nbd7 10. a4 O-O 11. Qd2 Rc8 0-1
+

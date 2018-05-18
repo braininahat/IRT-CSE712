@@ -1,0 +1,22 @@
+[Event "FIDE World Cup-D"]
+[Site "Shenyang"]
+[Date "2000.09.04"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Tregubov, Pavel V"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2762"]
+[BlackElo "2620"]
+[PlyCount "25"]
+[EventDate "2000.09.01"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2000.11.21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. b3 f5 8. Ba3
+Nf6 9. N1c3 Qa5 10. Qd2 O-O 11. Nd5 Qxd2+ 12. Kxd2 Rd8 13. Nxe7+ 1/2-1/2
+

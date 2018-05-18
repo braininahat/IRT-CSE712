@@ -1,0 +1,26 @@
+[Event "Bundesliga 0001"]
+[Site "Germany"]
+[Date "2001.03.10"]
+[Round "10.1"]
+[White "Onischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2627"]
+[BlackElo "2551"]
+[PlyCount "30"]
+[EventDate "2000.10.14"]
+[EventType "tourn ()"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.07.03"]
+[WhiteTeam "Magdeburg USC"]
+[BlackTeam "Wattenscheid"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. Ne5 c5 7. Be3 Nd5 8. dxc5
+Nd7 9. Nxc4 Nxe3 10. Nxe3 Bxc5 11. Nc4 O-O 12. O-O Rb8 13. Nc3 b5 14. Nd6 Nf6
+15. Nxc8 Qxd1 1/2-1/2
+

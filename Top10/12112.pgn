@@ -1,0 +1,25 @@
+[Event "Karjakin-Nakamura m"]
+[Site "playchess.com INT"]
+[Date "2005.04.29"]
+[Round "?"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2635"]
+[BlackElo "2657"]
+[PlyCount "71"]
+[EventDate "2005.04.29"]
+[EventType "match (blitz)"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2007.11.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nf6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Nb6 10. h5 Bb7 11. Rh3 Qe7 12. g6 f6 13. Qg4 e5 14. Nf5 Bc8 15. Be3
+Bxf5 16. Qxf5 N8d7 17. gxh7 Nc5 18. O-O-O Nba4 19. Nd5 Qf7 20. Rg3 Ne6 21. Bh3
+Nc7 22. f4 Nxd5 23. Rxd5 exf4 24. Bxf4 Nb6 25. Rc3 Rd8 26. Rc6 Nxd5 27. exd5
+Be7 28. Bg4 Kf8 29. Rxa6 Rb8 30. c3 Rd8 31. Rb6 Qe8 32. Qg6 Qf7 33. Be6 Qe8 34.
+Rxb5 f5 35. Rb7 Rb8 36. Rxb8 1-0
+

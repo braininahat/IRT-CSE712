@@ -1,0 +1,21 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Boixeda, Pablo"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2765"]
+[PlyCount "33"]
+[EventDate "2008.05.24"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 Qb6 6. Nf3 Bg4 7. Bc4 e6 8.
+h3 Bxf3 9. Qxf3 c6 10. O-O-O Qc7 11. Rhe1 Nbd7 12. Bxe6 fxe6 13. Rxe6+ Kd8 14.
+Bf4 Qa5 15. d5 h6 16. d6 Rc8 17. Rde1 1-0
+

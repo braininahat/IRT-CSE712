@@ -1,0 +1,23 @@
+[Event "Frankfurt Chess Classic sim"]
+[Site "Frankfurt"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Enders, Manfred"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2715"]
+[PlyCount "57"]
+[EventDate "1994.??.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Qg4 Nf5 6. Bd3 g6 7. Nf3 c5 8. dxc5
+Nc6 9. O-O Bxc5 10. Bxf5 exf5 11. Qg3 Be6 12. Nb5 h6 13. h4 Qd7 14. Nd6+ Bxd6
+15. exd6 O-O-O 16. Bf4 g5 17. hxg5 hxg5 18. Nxg5 Rdg8 19. Rfe1 Rh5 20. Nxe6
+Rgh8 21. f3 fxe6 22. Qg6 Nd8 23. Qf6 R5h7 24. Rac1 Rg8 25. c4 Rhg7 26. cxd5+
+Kb8 27. Re2 Rg6 28. Qe7 R6g7 29. Qxd8+ 1-0
+

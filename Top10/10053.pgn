@@ -1,0 +1,23 @@
+[Event "Mainz CCM5 sim"]
+[Site "Mainz"]
+[Date "2005.08.??"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Geske, Julian"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2720"]
+[BlackElo "2086"]
+[PlyCount "28"]
+[EventDate "2005.08.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nxc6 Bc5 6. Qd2 dxc6 7. Nc3 Bd4
+8. Bd3 Ne7 9. O-O Be6 10. Kh1 O-O-O 11. f4 g6 12. Ne2 Bxb2 13. Bxb2 Qxb2 14.
+Qc3 Qb6 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "Benidorm sim"]
+[Site "Benidorm"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Pastor Gomis, Jose Manuel"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2801"]
+[BlackElo "1935"]
+[PlyCount "29"]
+[EventDate "2007.11.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 O-O 8. f3
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qa5 12. Nd5 Qd8 13. Nxf6+ exf6 14. h4 d5
+15. Bc5 1-0
+

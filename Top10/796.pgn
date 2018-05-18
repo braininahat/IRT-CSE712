@@ -1,0 +1,24 @@
+[Event "Frankfurt Chess Classic sim"]
+[Site "Frankfurt"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Mueller, M."]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2715"]
+[PlyCount "65"]
+[EventDate "1994.??.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 Nc6 9. d5 Bxc3+ 10. Bd2 Bxd2+ 11. Qxd2 Nd4 12. Nxd4 cxd4 13. Qxd4 Qa5+ 14.
+Qd2 Qxd2+ 15. Kxd2 b6 16. Bd3 O-O 17. Rhc1 f5 18. f3 fxe4 19. fxe4 Rf2+ 20. Ke3
+Rxg2 21. Rc7 Rxh2 22. Rxe7 Bg4 23. Rf1 Rf8 24. Rxf8+ Kxf8 25. Rxa7 h5 26. e5
+Rh3+ 27. Kd4 Rh4 28. Ke3 Rh3+ 29. Kd2 Rh2+ 30. Kc3 Bf5 31. Bxf5 gxf5 32. d6 Re2
+33. Ra8+ 1-0
+

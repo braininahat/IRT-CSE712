@@ -1,0 +1,23 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Jimenez Capilla, Jose Alfonso"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2765"]
+[BlackElo "2029"]
+[PlyCount "53"]
+[EventDate "2008.05.24"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. g3 a6 10. Ne2 b5 11. Bg2 Bb7 12. O-O Rc8 13. c3 Re8 14. Rae1 a5 15. dxc5
+Nxc5 16. Nfd4 Nxd4 17. cxd4 Nd7 18. f5 Nb6 19. Qd3 Nc4 20. Bc1 Bg5 21. b3 Bxc1
+22. Rxc1 Na3 23. Rxc8 Bxc8 24. f6 Ba6 25. Qd2 Qc7 26. Qg5 g6 27. Qh6 1-0
+

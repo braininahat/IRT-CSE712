@@ -1,0 +1,23 @@
+[Event "Frankfurt Chess Classic sim"]
+[Site "Frankfurt"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Schnorr, G."]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2715"]
+[PlyCount "56"]
+[EventDate "1994.??.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 Be7 8. Qd2
+O-O 9. g4 b5 10. O-O-O Bb7 11. g5 Ne8 12. h4 Nc6 13. Kb1 Nxd4 14. Bxd4 Rc8 15.
+Rg1 Qd7 16. h5 b4 17. Ne2 d5 18. e5 Qc7 19. Nf4 Bc5 20. Bxc5 Qxc5 21. Bd3 Nc7
+22. Bxh7+ Kxh7 23. g6+ Kg8 24. h6 Nb5 25. hxg7 Kxg7 26. Nh5+ Kg8 27. g7 f5 28.
+gxf8=Q+ Kxf8 1-0
+

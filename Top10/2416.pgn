@@ -1,0 +1,22 @@
+[Event "Benidorm sim"]
+[Site "Benidorm"]
+[Date "2007.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Lopez Gallego, Miguel Angel"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2801"]
+[BlackElo "1955"]
+[PlyCount "37"]
+[EventDate "2007.11.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. Bg2
+Nc6 9. h3 Bd7 10. Qe2 Be7 11. O-O-O Rc8 12. f4 e5 13. Nf5 Bxf5 14. gxf5 Qa5 15.
+Kb1 Nb4 16. a3 Rxc3 17. axb4 Rxe3 18. Qxe3 Qxb4 19. fxe5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Grischuk-Melkumyan m"]
+[Site "playchess.com INT"]
+[Date "2006.12.25"]
+[Round "?"]
+[White "Melkumyan, Hrant"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2391"]
+[BlackElo "2710"]
+[PlyCount "98"]
+[EventDate "2006.12.25"]
+[EventType "match (blitz)"]
+[EventRounds "6"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2007.11.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. Nd2 Qe7 7. Rc1 h6 8. Bh4
+c5 9. d5 g5 10. Bg3 exd5 11. Nxd5 Bxd5 12. cxd5 Ne4 13. Rc2 h5 14. f3 Nxd2 15.
+Rxd2 Qe3 16. a3 Ba5 17. Bf2 Bxd2+ 18. Qxd2 Qxd2+ 19. Kxd2 d6 20. e4 Nd7 21. h4
+g4 22. fxg4 hxg4 23. h5 Ke7 24. Be2 Ne5 25. Be3 Rag8 26. h6 Rh7 27. Rh4 f6 28.
+a4 a5 29. b3 Rg6 30. Kc3 g3 31. Kd2 Nf7 32. Bg4 Ng5 33. Bf5 Rgxh6 34. Rg4 Rh4
+35. Rxg5 fxg5 36. Bxg5+ Ke8 37. Bg6+ Kd7 38. Bxh7 Rxh7 39. Ke3 Rh1 40. Kf3 Rb1
+41. Kxg3 b5 42. Kf4 Rxb3 43. g4 bxa4 44. Bf6 Rb1 45. g5 Rf1+ 46. Kg4 a3 47. e5
+dxe5 48. Bxe5 a2 49. g6 a1=Q 0-1
+

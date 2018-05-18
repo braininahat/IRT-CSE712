@@ -1,0 +1,31 @@
+[Event "Mainz CCM5 sim"]
+[Site "Mainz"]
+[Date "2005.08.??"]
+[Round "?"]
+[White "Grischuk, Alexander"]
+[Black "Haasler, Andreas"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2720"]
+[BlackElo "2189"]
+[PlyCount "131"]
+[EventDate "2005.08.??"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. cxd4
+Nf5 9. Bb2 Bd7 10. g4 Nh6 11. Rg1 f6 12. exf6 gxf6 13. Nc3 Nf7 14. Na4 Qc7 15.
+Nc5 Bd6 16. Rc1 Bf4 17. Rc2 a6 18. Bd3 Bc8 19. h4 Qd6 20. g5 fxg5 21. hxg5 Ne7
+22. Re2 b6 23. Bb1 Rg8 24. Nd3 Nxg5 25. Nxg5 Rxg5 26. Rxg5 Bxg5 27. Re5 Bf6 28.
+Qh5+ Kd8 29. Re2 Nf5 30. Ne5 Bxe5 31. dxe5 Qf8 32. Qxh7 Ne7 33. Bc1 Qg8 34.
+Qxg8+ Nxg8 35. Bg5+ Ke8 36. Rc2 Bd7 37. Rc7 Ne7 38. Bd3 b5 39. Kd2 Rc8 40. Ra7
+Rc6 41. Bxe7 Kxe7 42. f4 Kd8 43. Ra8+ Ke7 44. Rh8 Rc7 45. Be2 Be8 46. Rh7+ Kd8
+47. Rxc7 Kxc7 48. Bg4 Bd7 49. Ke3 Kc6 50. Kd4 Kb6 51. Bh5 Kc6 52. Bf7 Bc8 53.
+f5 exf5 54. Bxd5+ Kc7 55. Ke3 Kd7 56. Kf4 Ke7 57. Bg2 Kf7 58. Bd5+ Ke7 59. Bb3
+Bb7 60. Kxf5 Bg2 61. Kf4 Bb7 62. Ke3 Bc8 63. Kd4 Bb7 64. Bd5 Bc8 65. Kc5 Kd8
+66. Kd6 1-0
+

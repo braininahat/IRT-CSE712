@@ -1,0 +1,23 @@
+[Event "USA-ch U20"]
+[Site "Tulsa"]
+[Date "2001.??.??"]
+[Round "1"]
+[White "Sarkar, Justin"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2406"]
+[BlackElo "2452"]
+[PlyCount "32"]
+[EventDate "2001.??.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "4"]
+[Source "ChessBase"]
+[SourceDate "2005.11.24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. O-O Be6 10. Nd5 Bxd5 11. exd5 Nbd7 12. Qd3 Ne8 13. a4 Bg5 14. Bg4 Bxe3
+15. fxe3 Nef6 16. Bxd7 Nxd7 1/2-1/2
+
